@@ -1,6 +1,8 @@
 # Add Syncfusion Blazor Components to the Blazor WebAssembly App
 A getting started Blazor WebAssembly App project that is pre-configured to use the Blazor Components of Syncfusion.
 
+Documentation: https://ej2.syncfusion.com/blazor/documentation/getting-started/vs-blazor/
+
 ## Pre-requisites
 To run this project, you need to install the following pre-requisites in your machine.
 * Visual Studio 2019 (version 16.4 or later)
